@@ -1,0 +1,27 @@
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Dependencies and build output
+node_modules/
+dist/
+.parcel-cache/
+build/
+
+# Temporary or cache files
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# Logs
+*.log
